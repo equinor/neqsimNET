@@ -43,6 +43,4 @@ NeqSim is built upon six base modules:
 >
 >neqsim/processSimulation: Main path for Process Simulation Calculations
 >neqsim/processSimulation/util/examples/: Examples of use of Process Simulation calculations
->
->changelog.txt : History of what changed between each version.
->license.txt: license document
+

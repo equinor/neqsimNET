@@ -6,19 +6,21 @@ See https://github.com/equinor/neqsim. NeqSim can be used via .Net using the sam
 
 Examples of how to use NeqSim.NET is seen in the [example folder](https://github.com/equinor/neqsimNET/tree/master/examples).
 
-## Discussion forum
+# Discussion forum
 Questions related to neqsim can be posted in the [github discussion pages](https://github.com/equinor/neqsim/discussions).
 
-## Authors and contact persons
-Even Solbraa (esolbraa@gmail.com),  Marlene Louise Lund
 
-## Licence
+
+# Licence
 NeqSim is distributed under the [Apache-2.0](https://github.com/equinor/neqsimsource/blob/master/LICENSE) licence.
 
-## Acknowledgments
+# Acknowledgments
 A number of master and PhD students at NTNU have contributed to development of NeqSim. We greatly acknowledge their contributions.
 
-## NeqSim modules
+# Authors and contact persons
+Even Solbraa (esolbraa@gmail.com),  Marlene Louise Lund
+
+# NeqSim modules
 NeqSim is built upon six base modules:
 1. Thermodynamic Routines
 2. Physical Properties Routines
@@ -28,8 +30,7 @@ NeqSim is built upon six base modules:
 6. Parameter Fitting Routines
 7. Process simulation routines
 
-
-## File System
+# File System
 >neqsim/: main library with all modules 
 >
 >neqsim/thermo/: Main path for thermodynamic routines

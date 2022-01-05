@@ -6,6 +6,9 @@ See https://github.com/equinor/neqsim. NeqSim can be used via .Net using the sam
 
 Examples of how to use NeqSim.NET is seen in the [example folder](https://github.com/equinor/neqsimNET/tree/master/examples).
 
+## Discussion forum
+Questions related to neqsim can be posted in the [github discussion pages](https://github.com/equinor/neqsim/discussions).
+
 ## Authors and contact persons
 Even Solbraa (esolbraa@gmail.com),  Marlene Louise Lund
 
